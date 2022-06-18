@@ -1,0 +1,7086 @@
+fileFormatVersion: 2
+guid: e7c3edc3b047a1d41a91ba9be884ac7a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: near-buildings-bg_0
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 193
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636fb4175eb695d4db7b0444b56440f7
+      internalID: -1112939167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 193
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ceec7da924195d4ba28371b6ace4403
+      internalID: -1716145076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 193
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc0196a619944446a5c3fdeffb89f47
+      internalID: 355492941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 193
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eacc2261c353b948b211c180dfebc41
+      internalID: 1409519716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 193
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871b5f1ff9d6d4540a3920fa3787d219
+      internalID: 1878117708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 193
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349686fe4fe63ac468cc5c4355668c32
+      internalID: 2023449320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 193
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed62f75a17542d48a847809033cded5
+      internalID: 78804059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_7
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 193
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a92e9c1e07551449cdcf4bd113f468
+      internalID: -726335922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_8
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 177
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0628da5a6be1e414ea923f6e63be80f3
+      internalID: 2131643142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 177
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79847ef5461040c41ad6b9ceb45a25c6
+      internalID: -1308293647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_10
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 177
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d63abea13cdd948b28f30b5a850360
+      internalID: -1996344233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_11
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 177
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c00ab612f469bc4fbc9e7eeb2e6b1f3
+      internalID: -1829567902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_12
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 177
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d72e8a00b626cb4a8f18908ecb47991
+      internalID: 885157801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 177
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366bb0b19ee648c4d861ece4e6dce550
+      internalID: 1325769649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 177
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2caafbca9be07ee48a07ad9214b95a90
+      internalID: -1661057374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_15
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 177
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91e68921678d13478b8125d02eec67e
+      internalID: 2041369545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a1e8baaf1ff7b43828e5d7742089f8
+      internalID: 2046110506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05096ea95df40404997222464ddd0b31
+      internalID: 541115884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_18
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509e56f3d3278a4469155cb3f6aa4eec
+      internalID: -149774595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855e6213c5b7232468c6eb3d8b5b2597
+      internalID: -889741934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_20
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcae306b91b58b44dad6b670fd8f1c0a
+      internalID: -1832699512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646165c765d8c1b4687c55a4c46ad118
+      internalID: 61308714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_22
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77bac4905ca5b2b48a2f1c06d18c54c4
+      internalID: 1080676571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_23
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4a98712efe3024c9d0f01b0a121746
+      internalID: -522759772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aed47888186a5d4b8ac644f82741b77
+      internalID: 761932633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_25
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1ee2228a9ca75498f60c01d804ee36
+      internalID: 926346465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_26
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a22103718bb1fd4ab8b1cf497eec528
+      internalID: 920815292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_27
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed83cd09894dbfe4bb8c125ef21676f7
+      internalID: 997866870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7e2f8edfea6254e8146ad49c397615
+      internalID: 1761408541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_29
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2aad68ff2ba749439c50862c5400e47
+      internalID: 1078072927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_30
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c12906b6e59b57418cc2d359ab0c450
+      internalID: -1271981498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_31
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57e3b477d3277241a6e77c8709864ba
+      internalID: 1484810188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_32
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86863d1fb72d7e943bf7e55d6fac5b64
+      internalID: 1167503778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_33
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ca84c1ab74cab4faab1d4173a9a59f
+      internalID: 376256079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_34
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855f50b939e1de1478d36bc79e4c9738
+      internalID: -1493336799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_35
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176a681b36d0d0e47916cc5b35ba8b12
+      internalID: -146876722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_36
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74714041d6f744840a00dc403570c312
+      internalID: -289332587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a9724c3c0a7ac4ca46f579bc3c87d8
+      internalID: 1452321016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_38
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e60c3cd016835459b0078d870ff730
+      internalID: -46153033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_39
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9066d84d36c26346b2167167124bbd2
+      internalID: -338905395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_40
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c26d97ff15436d48a682a43650a6ef1
+      internalID: 982646865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33d3e5a40dcab34fab469e13a17a049
+      internalID: -199562050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_42
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6703dec4baf3e2a4ea54618feadc0e8c
+      internalID: -1040768931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10df333c14b28bb408644f794df7d6d4
+      internalID: 760969208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_44
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c352b9379fe0f374489fa4f91475973c
+      internalID: 243746864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_45
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3e45a3af4e6c3478959f2b18d6f382
+      internalID: -2078722533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_46
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d011d28d22bb846489b0834b53231e83
+      internalID: 1836601374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_47
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef9a588d8d74e145bb3cad96d929b88
+      internalID: 1360519513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_48
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f8f317b924c2d43ad2109836fe9c83
+      internalID: -1362863971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_49
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9f1237484f9044abe0c4cfb294b8ec
+      internalID: 1189339153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_50
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce328c1c09710c48b9f27132c7533c2
+      internalID: -1973757192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_51
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3a0afa2e3bd4d4f90490fc897693bf
+      internalID: -1091523184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6a053e2944bfc42a4777dc0f908ebc
+      internalID: 518686762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_53
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab44610210ae69408bac3501a9610ad
+      internalID: 830105361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_54
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0bb9e208adebf42ad1a3b0377c251a
+      internalID: -1781558160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_55
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51492985f9a93448b040d66fb773cdb
+      internalID: -996735208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_56
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f30b519392c0054cb4bece90295ca78
+      internalID: -1144026092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_57
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5191500754a324b9b456cbba063a6d
+      internalID: -304161736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_58
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd2fd9a28401db4d81fae02dc6d794d
+      internalID: -1312066920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_59
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e286e222dd9978b40a9b4cd9b919ce04
+      internalID: 746108280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_60
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d43dfe8cd71d34989f12d164aefc68
+      internalID: 37667491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_61
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c1276953676364db88a2888b2feeba
+      internalID: -1004192696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38c8400111593246825b00ca75bf6e6
+      internalID: -1469553162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_63
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1132060b05621064ba564603756f4ddb
+      internalID: 2090368461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_64
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818216dff3cd3a74eb1b7efef924f8ab
+      internalID: 908515390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_65
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65154fcdd97d14648a9551ae97d00769
+      internalID: 880460410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4170d36397bec94297dc8fdfb68fc95
+      internalID: 1844572133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_67
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fc1058f0d9ff14092e3b9f1fe2b877
+      internalID: -944538662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_68
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03e8041824596f4b9a15e8d7c6b9a1c
+      internalID: 1876271522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_69
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d547493e8eef97f48af8ee155984f3e4
+      internalID: -1480227548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_70
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470a9f8ca2a1e9643b629e2745c60009
+      internalID: 109361109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_71
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9c4014e4b2d4d4baa355650eeb83a8
+      internalID: -910338498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_72
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d68778a0782244b8d8f03c294d4eb9
+      internalID: 99979898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_73
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd8a2434c52e3c468512d0002106b63
+      internalID: -1105454355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_74
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64ef42f0214dc24da53173a673e3105
+      internalID: -49970956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_75
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2afc441d724ee45a39526eb0916ce6
+      internalID: -18400015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_76
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51fc1c3af349f94d9bc0c30d6b7df4e
+      internalID: 118908682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_77
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e5f34d11d9d3e45951482eeec73c24
+      internalID: -1335977142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_78
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45422c91ef2113478ba4fbaed999dbc
+      internalID: 1536997443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_79
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928aebd2f3b2ac94ca278358b3797b6f
+      internalID: 1770898829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_80
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315bb524821e0a945afafea56800edf6
+      internalID: -1251015944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_81
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa2f9e905b306d42b7f1bc531f3ecb7
+      internalID: -234998335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_82
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ada5fa8696baa48b11b42c51eab1ff
+      internalID: -762053916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_83
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9674c3b7f64468c49a6fa2e701208751
+      internalID: 1590683791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_84
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e258bd0abcbf79e4784b9f3193b03499
+      internalID: 221537503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_85
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d9e09f560cd5f4daf446e07ad3384e
+      internalID: -138481414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_86
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88703c2b2d46047408427476ed402cd4
+      internalID: -247409132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_87
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbfa8828e7b93944985d2ce8808edca3
+      internalID: 823781231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_88
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1b06f22e524084b8ff8491f067872f
+      internalID: 1940930443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_89
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e0c2d14352fb944b7e20e5059773b5
+      internalID: 713604683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_90
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6445f1f0b5394449756c5a167adeac
+      internalID: -1598564241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba22ea94780bab5479ca897cdcbca0fe
+      internalID: -1693585186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_92
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41938971ca149b943b54d133e37a7bb9
+      internalID: 1762376769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_93
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de209a0fced8fb419a96b6bdddecd02
+      internalID: -285104433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_94
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b011795ddfb473a4292ae408c911840e
+      internalID: -372731548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_95
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede25c7e8fff1f742885f51bdcd42815
+      internalID: -2006459623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_96
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0435306034f42ac4298a39ee9d7ff2b3
+      internalID: -959456024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_97
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94d8fde3630b7a4b9aa9faf627521ae
+      internalID: -1620585715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_98
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0d75c87d9bc41498e93a8f4173fc4e
+      internalID: -1539325423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_99
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b21be1d1fd278c43b55a9d5b40f44ea
+      internalID: -407790464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_100
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae97bebaa2bfb947a767dc598e15b5b
+      internalID: -584453533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab03d2bb3468764988fcaf5fc792b4a
+      internalID: 342372681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79fae8222bfcb2c479985e20e323dd6c
+      internalID: -754333292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_103
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f358aa1464f8804439240c93eb0cb37f
+      internalID: 1000809796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_104
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebfec0e55338c54b9badbd013bf022c
+      internalID: -70586396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_105
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf44eefde0901324a8e9c8c1ebc6cd5b
+      internalID: 702592309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46922ba55e6785a48a85acff504e96af
+      internalID: -409019500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_107
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd3b531e0cfb2d4c9f5b1fb205227e7
+      internalID: -1551289331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_108
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abfffbd6525db0641acf13f83221c1f9
+      internalID: 1117006049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_109
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17f7de288953b44c80d289e5c947988
+      internalID: 1832075459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_110
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b41845a05760b4ebdcd2d9adfcfd0f
+      internalID: 1243470630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_111
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8269f41e2e2d04c4f9559f4a2ddf0af0
+      internalID: 1674170123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_112
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df204579b423de468a552f3df0a482f
+      internalID: 562193931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_113
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8cd109caf0bb71428e891b09ee5c74a
+      internalID: 207985880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_114
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200e3b16a5b3e8d4ab97acee18339de9
+      internalID: -1185182157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_115
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70dad871d508f24984f76ccb08dec57
+      internalID: 2074990417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_116
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dcc4b5c75984d14782c28255150da8f
+      internalID: -182064876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_117
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2242646f400dc0545891b5dc03a5cd29
+      internalID: -719565961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_118
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a38f9ebaf63104f80843ae81a488c7
+      internalID: -1548186963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_119
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ae174e10b101d4bbc6d2e04487121a
+      internalID: -2020386224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1389cffda5c24468ffceef32aee1c3
+      internalID: 2092751470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_121
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6518250c35b82c1488034b874af48eaf
+      internalID: -1530134263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_122
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0dacc0b2e1f1124aaed86c41677b7ba
+      internalID: -403470473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_123
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84eef430386b2d488a6532290aa9944
+      internalID: -505510381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_124
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5b7e3ad8ab86b409e2a8ddc266ec11
+      internalID: 1551824817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_125
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0104a69ae3224ab40aabd0f0790afa65
+      internalID: 129662889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_126
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6edbe74d909474b4d8a97da17a25b853
+      internalID: -488402855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_127
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8656347486ed41f469551e85aff12233
+      internalID: 571794500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_128
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45720ff5de54a0e45aa02a52972101b2
+      internalID: 1166624393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_129
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d58d3c0609e8534b96f3c42a90c2640
+      internalID: -1830524118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_130
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e571f595fcca1174ba7a44f488d19122
+      internalID: 698375758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_131
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8b97cbaba325b48893df4612afa308
+      internalID: 723385943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_132
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec3ba2031beb0b4c8f7f8a12f7b9b58
+      internalID: -287197563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_133
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf3e28b3b72fac4daff1edddca3bc97
+      internalID: -1581568739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_134
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a3b2f9506c72742bc380fa0cde68db
+      internalID: -1384871021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_135
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928db5551b9f9214ab5e9ba8f15fc1b0
+      internalID: 1483450249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_136
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e00f100e5325584db071fadac0ebfd6
+      internalID: -28329496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_137
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bc7c26e0694da47bb56d0809d6cdd0
+      internalID: -2076504041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_138
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96de7761d9fe3d44b977f53f136ea3d
+      internalID: -8524667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_139
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69997e0ecb598fe42a7d7b727ca1550e
+      internalID: -1268556033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_140
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a9270a373ccb8488b72333f7fa916e
+      internalID: 488346632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_141
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39fbd9cc772ad5419e318dd031b4cbc
+      internalID: 650917056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_142
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87b32cfc0a32b64687cb87623b76edb
+      internalID: -1194249869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_143
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488ac6b79a23800499d545ef56359d35
+      internalID: 402603141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_144
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb67fc2170ab6444a841e0c66a1ab683
+      internalID: 324333296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_145
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812fdd5ba47c5564f8bf27a35783f51e
+      internalID: 2058218100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_146
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3c89c3202e2c24b8621bea960534cd
+      internalID: 927873663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_147
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da01f3cf736692c4eae7eaa839a44729
+      internalID: 520474555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_148
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3087c16e9d11dc64db8d9f85d3bbd348
+      internalID: 968772770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_149
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7540c698c44f64c4d84abd45d70d870f
+      internalID: -290082173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_150
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0adcddd98a05ec144ad39d1e13ab7b3b
+      internalID: -689338899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_151
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf5d76e85f311049b3042548ebbc3e6
+      internalID: -219609567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_152
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57bce36a231afa742b53f6eceb3db55f
+      internalID: 1964183407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_153
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bf7609111177e48aad40791ae12547
+      internalID: 1016213296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_154
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534edcd5817acdd41bb8bb07635c8327
+      internalID: -233744414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_155
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1c68adcee9ef842b3129da937d2de8
+      internalID: 640397951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_156
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e1f6db80992204d998c100f1522325
+      internalID: 561629142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_157
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f756ae4077920a4792f8bc43d291150
+      internalID: -1649362513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_158
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4999dafcdc8014cb13cd3c61156104
+      internalID: -1992474374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_159
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f807961174a4f4eaaa1c01125db848
+      internalID: -1023965615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_160
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810d6cbf04a6b4c4ea9214f039c657cd
+      internalID: 73532077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_161
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b541140f1bd9c7c4aa2f99a1843af771
+      internalID: 2051046404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_162
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecce2fb2735ab794bbc149d25e5d39fc
+      internalID: 1816486171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_163
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c649f153ffca844bbf0b2bd434dfeee
+      internalID: -1064399026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_164
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08cdcb4c1ef0d54d98a7a379bc3e8dc
+      internalID: 57400271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_165
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3cdadc6d3d09a479d5e942cbf1f222
+      internalID: -1038144807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_166
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84dd84c34005a3f4a90fec98ecfa35be
+      internalID: -740537568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_167
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794243f62a5f262459f01bece8657849
+      internalID: 2103493102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_168
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47133996c843460478d4135fe99097a4
+      internalID: -1397591907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_169
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9991ca0506ac8474ba5d9c4d77bf1678
+      internalID: 1460409909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_170
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d2a6389607cc642b12b0ed8daef61a
+      internalID: -1266375002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_171
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4de4adf8e9b6394dbd01fd06956dfe4
+      internalID: -1350004759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_172
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a06dcc3f5a676b46a8b0d1dcee3c752
+      internalID: 1060530168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_173
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34de32bba4e0614428b126a881d93668
+      internalID: -353299753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_174
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bdbde60428fad043bf53307ebc94529
+      internalID: 1489974837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_175
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9dcac77435b6e40863aa348c25a23a
+      internalID: 1239215078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_176
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960cd504d16fc444fb37c263a61b225d
+      internalID: 897265217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_177
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2f2b2842961494b91d743822ce549c
+      internalID: -568147779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_178
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a02c3f77739164489ee2fa8d435772
+      internalID: 1090324507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_179
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322aa408c08b7694c8ad52506231b81a
+      internalID: -922898623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_180
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a11a61b6e04fe4aa9026a7c4bbcf1c
+      internalID: -1656878182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_181
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da559f4c14f66944e83be2a70a7bea7f
+      internalID: -462322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_182
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50f7ad87588d6440b19d12934155ee2
+      internalID: -717323842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_183
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d767d0e571ee8194bbb0738bc158055e
+      internalID: 288042485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_184
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c932ca2cb782b184ea4d4049f8d78330
+      internalID: 770972110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_185
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2466095c14e5e54c9aa0012be4cb2ed
+      internalID: -885443070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_186
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5dffbba652b78543b2e49fa3baff1b6
+      internalID: 1287187380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_187
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a47d831a84b2d40a39767fc80f4f78
+      internalID: 985099677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_188
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59f51307581d8747a2dfe6151357b9a
+      internalID: 493819106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_189
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1086c80240f7c86438881f88213fde5a
+      internalID: 648297580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_190
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbcccef998432145b696815e01af98e
+      internalID: 1509916063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_191
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db12a8db22ca3b4c979df80aedb5b24
+      internalID: -1231928792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_192
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8f65820ece0e7458f904a70ee6a829
+      internalID: 149434478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_193
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92e8303c6a6fc541ad12c6987e9066a
+      internalID: 496088917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_194
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873f138ef6053324c8b3120f0d46ce99
+      internalID: -1810869237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_195
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb74807ec45e2b54ca712517ae7a0726
+      internalID: 1881529750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_196
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0973b819b52c74ba4f60e94b0b56ec
+      internalID: -944847496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_197
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10578bcad33114e43a635bf3485210ac
+      internalID: 2122574387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_198
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b24585db723cd4595307619e4ff4c3
+      internalID: -1245475470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_199
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed55370bede8044eb7f95c42fd61e9a
+      internalID: -932886079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_200
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e3db6acf511d744aa39343bff6c475
+      internalID: 1287580135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_201
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979ba2185a249be4a90e94a90b440efa
+      internalID: 46302306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_202
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39deb26b06ea73b42992ab0f9205e286
+      internalID: 2065561548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_203
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d279b99a63f3543b9f2f47749d97d1
+      internalID: -892993098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_204
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e855ba0e77b41d4a86fd2de1a6fb5a7
+      internalID: 158100869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_205
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f3b082528c6a549863aaafa63ffc53
+      internalID: -663222713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_206
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72cca983f3c0214392acb8f57d4c476
+      internalID: 74872310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_207
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566d20da7cfc5d842a1802abc7bdf3b8
+      internalID: 1655673952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_208
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c76492a1cf81b459472d780235c069
+      internalID: -622861831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_209
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d89d4decf9cd94ca6df58d021948cf
+      internalID: -1923679040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_210
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198f967e97ad9b2489b068eb70ce5081
+      internalID: 1225834331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_211
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa31c345a23ad9d41a2a6ea23b35183b
+      internalID: -189442682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_212
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c17d271be953c4385b8a772eb84cf6
+      internalID: -1822135006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_213
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edf6171dbf30ad4b96551239b05cfa2
+      internalID: 400182798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_214
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028ed3b1892e5904391651f751bdf2f0
+      internalID: 670524250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_215
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c07b3553bb71304896f671daecab9c5
+      internalID: -483998771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_216
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87310d51d7c849745840adc2da58e299
+      internalID: -1932185223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_217
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707e2592165352f47925451866fb0a7b
+      internalID: -2072427961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_218
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2b1308a1f89b24cbbc523670d7d420
+      internalID: -811335911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_219
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00eab34ab1a99e04ab0fc2aeeddcdc70
+      internalID: -801750913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_220
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08bf11e16660f1c459f86d934aebae88
+      internalID: 1307292123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_221
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e2fc7f28dc7574b9bbabd65b1b1d0e
+      internalID: -2014623396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_222
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d06fae6c76d09c4080ec271a4ac5054
+      internalID: -1761947922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_223
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff67b771b5c6ca042bd98bcb3a4f166c
+      internalID: 922619601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_224
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4c401305ef14a4eae0f25a12040f98
+      internalID: -1531440697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_225
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375e123d021622046b5a3a3b1ab8531b
+      internalID: 25989688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_226
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ab0c1824a867e41a58c6778e96032f
+      internalID: -1521879713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_227
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccbd4734571d4e47a86a7ec0aa250c3
+      internalID: -794745181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_228
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420d146b8dea67748925dad63abb95a0
+      internalID: 1268976791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_229
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e19c04fb9cb3144fbfbafedbfc2de60
+      internalID: -1076573231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_230
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1793fa4e535a14ea3a3988687a568e
+      internalID: -1276640813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_231
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b462282ef6d151499e2e3b9151aec9f
+      internalID: -1825520929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_232
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0343efb9061182248aa3f63c68a1ca1f
+      internalID: 1104489886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_233
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f1979ba7530284f96419cc94e38e22
+      internalID: -1640198860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_234
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2c24f1248ff434dbb0f90661e0e15b
+      internalID: 1002218912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_235
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fef294bae36b14f98bc8458d3b39c0
+      internalID: 965869107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_236
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20fa578a553650b47b7c0b85e2b78936
+      internalID: 1563715466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_237
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776afcd0144356944aa922aa9e5465be
+      internalID: 94702663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_238
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42bee507ef5420448771c38ab62b1b5
+      internalID: -1661763009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_239
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebaf638eb96bb8c4f95f04abc3d37411
+      internalID: 1112779634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_240
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1a8448f714ed7488d2494d489f63ee
+      internalID: 354409332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_241
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4440294ef288dc74eb488ea6b833a073
+      internalID: -644614106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_242
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04576521a55d8164c92fb3a0579618a5
+      internalID: -1633733885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_243
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8379e67bf78d3b7479ac5e6387188bf3
+      internalID: -1629417212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_244
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3e077f2b09eef4fbdd55123b267e0d
+      internalID: -1536836980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_245
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091b731732a28804da3cf4e31d407b7d
+      internalID: -1133322653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_246
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997f2ecb31848114bb52f07f31ffb6ca
+      internalID: 1917946930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_247
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61996ae968863a34cb3a79485afb345e
+      internalID: 1763053713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_248
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b83194b2c54c940bcade03c0deba0c
+      internalID: -1333052161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_249
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3d33b6cf8a40743a3d2e41fcbb892f
+      internalID: -724969812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_250
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0269c309d7dba8b419dc6f9f07ba489c
+      internalID: -939430792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_251
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c139a89b0407d384abca2c00052a0927
+      internalID: 2009664414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_252
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2feee54d967504e499ffb8a3dc14ac2a
+      internalID: 1925210763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_253
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69c2a29869256649b355f130d8e9bba
+      internalID: 1902034819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_254
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f597dd716909db14b8a9638f126d992f
+      internalID: 713851043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_255
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cda958d30344ba4686cef9179f28459
+      internalID: 620946609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_256
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0146a4cb677cd4e8517b6b9107cf35
+      internalID: 277040925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_257
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408794490d9b20b45958f712e98b4ca0
+      internalID: -916570605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_258
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ebaabf4b8fe9c46b1ec0a3a5452907
+      internalID: -174889607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_259
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7e3cbcda9261b42b76ab77b5f944a7
+      internalID: -1785109141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_260
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820aa21e9e25a0949bfebaf9f9b3d853
+      internalID: -1052698917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_261
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cabdf87a6cfd3649adc95d1e0e018eb
+      internalID: 650502542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_262
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2465247f56a29ba48be96d3f032f3e88
+      internalID: 1937609791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_263
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6ba72c694730c43af58fb3b7ec544a
+      internalID: -787545867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_264
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11af5eaa78730da4aa32fa8b9cbc2477
+      internalID: -1328223087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_265
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbeee3135f2df5c4a9959c5dec5d8bda
+      internalID: -2081150752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_266
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78653053430ec948886fa419b26463c
+      internalID: -205554452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_267
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02defab466b82c4dbf3d4fefed648ef
+      internalID: -322191474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_268
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2143b18674b954f8d109e97dc83b98
+      internalID: 658822150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_269
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5148eb30eb5eda84ea5f2b58f87c94ef
+      internalID: -1475108634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_270
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ca7e03693a428409bab934c7ab6e1e
+      internalID: -90376848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_271
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94fba3e148669b348aca0ec13359a363
+      internalID: -128835742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_272
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beec11ca217d38540ab68c535a684103
+      internalID: 1386907136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_273
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17d89d9335176d4791c5f40edf5f16e
+      internalID: -721065073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_274
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f6df6e3c402a3458a0e8a283834486
+      internalID: -443031206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_275
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ecd4ecd7a6d054199f18bdb5265241
+      internalID: 178508879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_276
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49db0e426a096a942af0740d6b6b708d
+      internalID: -228061042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_277
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba6a8e395caeb44b94750ca555b82ec
+      internalID: -1911585424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_278
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec88a33e948e258438df79fb8939c410
+      internalID: 1968905448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_279
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98e02b5aea8c9144aab5dfb6b251409
+      internalID: -1742573509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_280
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5114b3806a43e4483b24e59076eb9a
+      internalID: 360674006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_281
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebb07e1e805cfb48a46721e63736efc
+      internalID: 372473694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_282
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955895a6e70477741926693e6baa647c
+      internalID: -822247200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_283
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9ebd402bd269c4e9c4371844bdc30e
+      internalID: 101629107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_284
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39fc6f0f0b490749b8a7ae912e0075d
+      internalID: 1296424916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_285
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90ddb7f2e55e0e448a21b57f1af9d96
+      internalID: 287604986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_286
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f339375cbebbfea4695f5f411afeccb8
+      internalID: 320294071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_287
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5c105002f51f743a9faff128667482
+      internalID: -125201538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_288
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8d459fd071e3e458ff30c94743416e
+      internalID: 709135775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_289
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4acbb0832a8d374ba67361b4874522c
+      internalID: -302039172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_290
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c1b94d47a16534483d3456b7439bff
+      internalID: 1704004413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_291
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52991ac30a34a774780623d1f7516f2d
+      internalID: -564225987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_292
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06dc6a8a149efbd4db68e699682aa808
+      internalID: 1880552790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_293
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f36c8eff639c9a4d86b104228f093a6
+      internalID: -798150457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_294
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8fb2436346d8c742b40af621abb811c
+      internalID: -65118126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_295
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e38bc39e1ad7224fbdb11a8286f3aa5
+      internalID: -1965320246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_296
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f7521e0f1713441947137e8e9792b0
+      internalID: 1055445493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_297
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99bbc672c3e5d4b40b5bd138586400f8
+      internalID: 1913361940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_298
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc37d713f6e173644beec1bb67d8c319
+      internalID: 1726823410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_299
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720c1ad9b40ba8443a4c9b279186d230
+      internalID: 2056497454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_300
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1dc7b2cfab9de47869503643facdd0
+      internalID: 1454533027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_301
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91138872fc59c7d47b3aef646f901651
+      internalID: -300129849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_302
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26296da06553b0a4394d1cfffa21cabf
+      internalID: -1840551860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_303
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e703fdad458a9d6439b70c72b1b06400
+      internalID: 635083486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_304
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1794dd09767baa4eaf601c5eba0d4e9
+      internalID: 732752135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_305
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa72983b186171e459f253433b7c5328
+      internalID: -930442983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_306
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff30d918cc14af47baf044d3402dfa0
+      internalID: -262321588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_307
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9669eb901458b994d99ddc1c81ac9556
+      internalID: -1824615459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_308
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf93801cecf93b428b6b6d2f6f9a1e7
+      internalID: -1563163601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_309
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa6d3fd39c06a646ab3c09fbd406143
+      internalID: 509403946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_310
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8fd03df83bfb742a09ea00a9d44aa4
+      internalID: 712380386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_311
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3e07ec20e875f40a363691797994ef
+      internalID: 671492309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_312
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3123c225565eb144cac28b951ff357aa
+      internalID: 1890012799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_313
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aadd27d4a0660b45a9bfcd545a953ed
+      internalID: 1755627776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_314
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357504ff9d21a894bab6db0c48a5a2ba
+      internalID: 299526173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: near-buildings-bg_315
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1247ebdbba44d60409c545c0533dd4f0
+      internalID: -45649677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      near-buildings-bg_234: 1002218912
+      near-buildings-bg_117: -719565961
+      near-buildings-bg_281: 372473694
+      near-buildings-bg_253: 1902034819
+      near-buildings-bg_188: 493819106
+      near-buildings-bg_104: -70586396
+      near-buildings-bg_57: -304161736
+      near-buildings-bg_66: 1844572133
+      near-buildings-bg_157: -1649362513
+      near-buildings-bg_8: 2131643142
+      near-buildings-bg_169: 1460409909
+      near-buildings-bg_217: -2072427961
+      near-buildings-bg_36: -289332587
+      near-buildings-bg_237: 94702663
+      near-buildings-bg_290: 1704004413
+      near-buildings-bg_274: -443031206
+      near-buildings-bg_74: -49970956
+      near-buildings-bg_294: -65118126
+      near-buildings-bg_222: -1761947922
+      near-buildings-bg_114: -1185182157
+      near-buildings-bg_28: 1761408541
+      near-buildings-bg_282: -822247200
+      near-buildings-bg_208: -622861831
+      near-buildings-bg_307: -1824615459
+      near-buildings-bg_167: 2103493102
+      near-buildings-bg_139: -1268556033
+      near-buildings-bg_187: 985099677
+      near-buildings-bg_200: 1287580135
+      near-buildings-bg_173: -353299753
+      near-buildings-bg_4: 1878117708
+      near-buildings-bg_252: 1925210763
+      near-buildings-bg_306: -262321588
+      near-buildings-bg_239: 1112779634
+      near-buildings-bg_27: 997866870
+      near-buildings-bg_58: -1312066920
+      near-buildings-bg_72: 99979898
+      near-buildings-bg_81: -234998335
+      near-buildings-bg_26: 920815292
+      near-buildings-bg_284: 1296424916
+      near-buildings-bg_83: 1590683791
+      near-buildings-bg_129: -1830524118
+      near-buildings-bg_271: -128835742
+      near-buildings-bg_53: 830105361
+      near-buildings-bg_283: 101629107
+      near-buildings-bg_158: -1992474374
+      near-buildings-bg_69: -1480227548
+      near-buildings-bg_154: -233744414
+      near-buildings-bg_47: 1360519513
+      near-buildings-bg_54: -1781558160
+      near-buildings-bg_265: -2081150752
+      near-buildings-bg_153: 1016213296
+      near-buildings-bg_181: -462322
+      near-buildings-bg_67: -944538662
+      near-buildings-bg_14: -1661057374
+      near-buildings-bg_96: -959456024
+      near-buildings-bg_39: -338905395
+      near-buildings-bg_121: -1530134263
+      near-buildings-bg_174: 1489974837
+      near-buildings-bg_298: 1726823410
+      near-buildings-bg_5: 2023449320
+      near-buildings-bg_17: 541115884
+      near-buildings-bg_24: 761932633
+      near-buildings-bg_29: 1078072927
+      near-buildings-bg_192: 149434478
+      near-buildings-bg_1: -1716145076
+      near-buildings-bg_92: 1762376769
+      near-buildings-bg_78: 1536997443
+      near-buildings-bg_136: -28329496
+      near-buildings-bg_38: -46153033
+      near-buildings-bg_30: -1271981498
+      near-buildings-bg_50: -1973757192
+      near-buildings-bg_95: -2006459623
+      near-buildings-bg_240: 354409332
+      near-buildings-bg_255: 620946609
+      near-buildings-bg_55: -996735208
+      near-buildings-bg_107: -1551289331
+      near-buildings-bg_63: 2090368461
+      near-buildings-bg_100: -584453533
+      near-buildings-bg_272: 1386907136
+      near-buildings-bg_119: -2020386224
+      near-buildings-bg_258: -174889607
+      near-buildings-bg_311: 671492309
+      near-buildings-bg_56: -1144026092
+      near-buildings-bg_125: 129662889
+      near-buildings-bg_141: 650917056
+      near-buildings-bg_182: -717323842
+      near-buildings-bg_51: -1091523184
+      near-buildings-bg_202: 2065561548
+      near-buildings-bg_122: -403470473
+      near-buildings-bg_207: 1655673952
+      near-buildings-bg_305: -930442983
+      near-buildings-bg_149: -290082173
+      near-buildings-bg_41: -199562050
+      near-buildings-bg_199: -932886079
+      near-buildings-bg_246: 1917946930
+      near-buildings-bg_40: 982646865
+      near-buildings-bg_65: 880460410
+      near-buildings-bg_268: 658822150
+      near-buildings-bg_289: -302039172
+      near-buildings-bg_150: -689338899
+      near-buildings-bg_79: 1770898829
+      near-buildings-bg_156: 561629142
+      near-buildings-bg_211: -189442682
+      near-buildings-bg_147: 520474555
+      near-buildings-bg_184: 770972110
+      near-buildings-bg_218: -811335911
+      near-buildings-bg_33: 376256079
+      near-buildings-bg_247: 1763053713
+      near-buildings-bg_126: -488402855
+      near-buildings-bg_138: -8524667
+      near-buildings-bg_221: -2014623396
+      near-buildings-bg_18: -149774595
+      near-buildings-bg_11: -1829567902
+      near-buildings-bg_115: 2074990417
+      near-buildings-bg_229: -1076573231
+      near-buildings-bg_84: 221537503
+      near-buildings-bg_161: 2051046404
+      near-buildings-bg_10: -1996344233
+      near-buildings-bg_165: -1038144807
+      near-buildings-bg_230: -1276640813
+      near-buildings-bg_164: 57400271
+      near-buildings-bg_145: 2058218100
+      near-buildings-bg_269: -1475108634
+      near-buildings-bg_205: -663222713
+      near-buildings-bg_16: 2046110506
+      near-buildings-bg_262: 1937609791
+      near-buildings-bg_299: 2056497454
+      near-buildings-bg_175: 1239215078
+      near-buildings-bg_90: -1598564241
+      near-buildings-bg_304: 732752135
+      near-buildings-bg_124: 1551824817
+      near-buildings-bg_270: -90376848
+      near-buildings-bg_256: 277040925
+      near-buildings-bg_267: -322191474
+      near-buildings-bg_245: -1133322653
+      near-buildings-bg_171: -1350004759
+      near-buildings-bg_160: 73532077
+      near-buildings-bg_203: -892993098
+      near-buildings-bg_224: -1531440697
+      near-buildings-bg_223: 922619601
+      near-buildings-bg_259: -1785109141
+      near-buildings-bg_186: 1287187380
+      near-buildings-bg_32: 1167503778
+      near-buildings-bg_59: 746108280
+      near-buildings-bg_163: -1064399026
+      near-buildings-bg_194: -1810869237
+      near-buildings-bg_190: 1509916063
+      near-buildings-bg_130: 698375758
+      near-buildings-bg_293: -798150457
+      near-buildings-bg_0: -1112939167
+      near-buildings-bg_68: 1876271522
+      near-buildings-bg_287: -125201538
+      near-buildings-bg_85: -138481414
+      near-buildings-bg_178: 1090324507
+      near-buildings-bg_189: 648297580
+      near-buildings-bg_220: 1307292123
+      near-buildings-bg_302: -1840551860
+      near-buildings-bg_313: 1755627776
+      near-buildings-bg_88: 1940930443
+      near-buildings-bg_13: 1325769649
+      near-buildings-bg_35: -146876722
+      near-buildings-bg_89: 713604683
+      near-buildings-bg_275: 178508879
+      near-buildings-bg_215: -483998771
+      near-buildings-bg_179: -922898623
+      near-buildings-bg_101: 342372681
+      near-buildings-bg_19: -889741934
+      near-buildings-bg_197: 2122574387
+      near-buildings-bg_279: -1742573509
+      near-buildings-bg_257: -916570605
+      near-buildings-bg_183: 288042485
+      near-buildings-bg_7: -726335922
+      near-buildings-bg_82: -762053916
+      near-buildings-bg_172: 1060530168
+      near-buildings-bg_297: 1913361940
+      near-buildings-bg_140: 488346632
+      near-buildings-bg_15: 2041369545
+      near-buildings-bg_62: -1469553162
+      near-buildings-bg_37: 1452321016
+      near-buildings-bg_244: -1536836980
+      near-buildings-bg_98: -1539325423
+      near-buildings-bg_21: 61308714
+      near-buildings-bg_196: -944847496
+      near-buildings-bg_162: 1816486171
+      near-buildings-bg_235: 965869107
+      near-buildings-bg_254: 713851043
+      near-buildings-bg_310: 712380386
+      near-buildings-bg_133: -1581568739
+      near-buildings-bg_64: 908515390
+      near-buildings-bg_80: -1251015944
+      near-buildings-bg_116: -182064876
+      near-buildings-bg_86: -247409132
+      near-buildings-bg_73: -1105454355
+      near-buildings-bg_87: 823781231
+      near-buildings-bg_155: 640397951
+      near-buildings-bg_110: 1243470630
+      near-buildings-bg_60: 37667491
+      near-buildings-bg_135: 1483450249
+      near-buildings-bg_111: 1674170123
+      near-buildings-bg_91: -1693585186
+      near-buildings-bg_166: -740537568
+      near-buildings-bg_242: -1633733885
+      near-buildings-bg_236: 1563715466
+      near-buildings-bg_123: -505510381
+      near-buildings-bg_49: 1189339153
+      near-buildings-bg_48: -1362863971
+      near-buildings-bg_206: 74872310
+      near-buildings-bg_241: -644614106
+      near-buildings-bg_9: -1308293647
+      near-buildings-bg_251: 2009664414
+      near-buildings-bg_276: -228061042
+      near-buildings-bg_278: 1968905448
+      near-buildings-bg_34: -1493336799
+      near-buildings-bg_210: 1225834331
+      near-buildings-bg_132: -287197563
+      near-buildings-bg_214: 670524250
+      near-buildings-bg_308: -1563163601
+      near-buildings-bg_46: 1836601374
+      near-buildings-bg_70: 109361109
+      near-buildings-bg_249: -724969812
+      near-buildings-bg_295: -1965320246
+      near-buildings-bg_303: 635083486
+      near-buildings-bg_225: 25989688
+      near-buildings-bg_106: -409019500
+      near-buildings-bg_168: -1397591907
+      near-buildings-bg_180: -1656878182
+      near-buildings-bg_43: 760969208
+      near-buildings-bg_61: -1004192696
+      near-buildings-bg_12: 885157801
+      near-buildings-bg_120: 2092751470
+      near-buildings-bg_144: 324333296
+      near-buildings-bg_176: 897265217
+      near-buildings-bg_216: -1932185223
+      near-buildings-bg_228: 1268976791
+      near-buildings-bg_260: -1052698917
+      near-buildings-bg_291: -564225987
+      near-buildings-bg_105: 702592309
+      near-buildings-bg_113: 207985880
+      near-buildings-bg_109: 1832075459
+      near-buildings-bg_131: 723385943
+      near-buildings-bg_191: -1231928792
+      near-buildings-bg_300: 1454533027
+      near-buildings-bg_285: 287604986
+      near-buildings-bg_143: 402603141
+      near-buildings-bg_280: 360674006
+      near-buildings-bg_97: -1620585715
+      near-buildings-bg_263: -787545867
+      near-buildings-bg_212: -1822135006
+      near-buildings-bg_44: 243746864
+      near-buildings-bg_309: 509403946
+      near-buildings-bg_2: 355492941
+      near-buildings-bg_20: -1832699512
+      near-buildings-bg_264: -1328223087
+      near-buildings-bg_71: -910338498
+      near-buildings-bg_103: 1000809796
+      near-buildings-bg_118: -1548186963
+      near-buildings-bg_231: -1825520929
+      near-buildings-bg_301: -300129849
+      near-buildings-bg_204: 158100869
+      near-buildings-bg_137: -2076504041
+      near-buildings-bg_195: 1881529750
+      near-buildings-bg_128: 1166624393
+      near-buildings-bg_146: 927873663
+      near-buildings-bg_102: -754333292
+      near-buildings-bg_25: 926346465
+      near-buildings-bg_193: 496088917
+      near-buildings-bg_76: 118908682
+      near-buildings-bg_198: -1245475470
+      near-buildings-bg_31: 1484810188
+      near-buildings-bg_112: 562193931
+      near-buildings-bg_296: 1055445493
+      near-buildings-bg_152: 1964183407
+      near-buildings-bg_45: -2078722533
+      near-buildings-bg_75: -18400015
+      near-buildings-bg_185: -885443070
+      near-buildings-bg_108: 1117006049
+      near-buildings-bg_266: -205554452
+      near-buildings-bg_77: -1335977142
+      near-buildings-bg_134: -1384871021
+      near-buildings-bg_93: -285104433
+      near-buildings-bg_232: 1104489886
+      near-buildings-bg_52: 518686762
+      near-buildings-bg_238: -1661763009
+      near-buildings-bg_22: 1080676571
+      near-buildings-bg_151: -219609567
+      near-buildings-bg_226: -1521879713
+      near-buildings-bg_99: -407790464
+      near-buildings-bg_315: -45649677
+      near-buildings-bg_213: 400182798
+      near-buildings-bg_209: -1923679040
+      near-buildings-bg_159: -1023965615
+      near-buildings-bg_177: -568147779
+      near-buildings-bg_277: -1911585424
+      near-buildings-bg_127: 571794500
+      near-buildings-bg_219: -801750913
+      near-buildings-bg_148: 968772770
+      near-buildings-bg_312: 1890012799
+      near-buildings-bg_6: 78804059
+      near-buildings-bg_292: 1880552790
+      near-buildings-bg_227: -794745181
+      near-buildings-bg_314: 299526173
+      near-buildings-bg_3: 1409519716
+      near-buildings-bg_233: -1640198860
+      near-buildings-bg_142: -1194249869
+      near-buildings-bg_23: -522759772
+      near-buildings-bg_201: 46302306
+      near-buildings-bg_261: 650502542
+      near-buildings-bg_273: -721065073
+      near-buildings-bg_286: 320294071
+      near-buildings-bg_42: -1040768931
+      near-buildings-bg_94: -372731548
+      near-buildings-bg_288: 709135775
+      near-buildings-bg_250: -939430792
+      near-buildings-bg_170: -1266375002
+      near-buildings-bg_243: -1629417212
+      near-buildings-bg_248: -1333052161
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
