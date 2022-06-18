@@ -130,8 +130,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8d4bc630ce3019b4e9640653135903dd
-      internalID: -792078877
+      spriteID: 14765bc52e7ed1e4198f81b427be4f51
+      internalID: -949156936
       vertices: []
       indices: 
       edges: []
@@ -151,8 +151,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7fbade3991264104ea3b772aa396f9f3
-      internalID: -1072745394
+      spriteID: 9b5c53b1a2aba3a41a85ead118b85584
+      internalID: 1563698875
       vertices: []
       indices: 
       edges: []
@@ -172,8 +172,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 543d40cc1f5fe124b9ab9f5a94cd2f3c
-      internalID: -1526270362
+      spriteID: 48045ca9c6ad25543b3e4935f7d010b2
+      internalID: 1499232816
       vertices: []
       indices: 
       edges: []
@@ -193,8 +193,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 488565adc049de84fa49e57da836628c
-      internalID: 1553893249
+      spriteID: e142088a385cb03459fd12b2d35e91e0
+      internalID: 1639825017
       vertices: []
       indices: 
       edges: []
@@ -214,8 +214,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c9a41998ab15f34468dcc46b12abf742
-      internalID: 1330143961
+      spriteID: 7dd2fdc944c563a4f987e27077b96793
+      internalID: 986190139
       vertices: []
       indices: 
       edges: []
@@ -235,8 +235,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5168675299c84894890c80b4d1517181
-      internalID: 732075821
+      spriteID: 045345911d4eef841ad4111cff53807e
+      internalID: 798641331
       vertices: []
       indices: 
       edges: []
@@ -252,12 +252,12 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Idle_Animation_1_4: 1330143961
-      Idle_Animation_1_2: -1526270362
-      Idle_Animation_1_0: -792078877
-      Idle_Animation_1_3: 1553893249
-      Idle_Animation_1_5: 732075821
-      Idle_Animation_1_1: -1072745394
+      Idle_Animation_1_4: 986190139
+      Idle_Animation_1_2: 1499232816
+      Idle_Animation_1_0: -949156936
+      Idle_Animation_1_3: 1639825017
+      Idle_Animation_1_5: 798641331
+      Idle_Animation_1_1: 1563698875
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
